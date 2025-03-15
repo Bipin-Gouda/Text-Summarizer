@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: Text-Summarizer
+Version: 0.0.0
+Summary: A package to summarize the text
+Home-page: https://github.com/Bipin-Gouda/Text-Summarizer
+Author: Bipin-Gouda
+Author-email: bipingouda1199@gmail.com
+Project-URL: Bug Tracker, https://github.com/Bipin-Gouda/Text-Summarizer/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Text-Summarizer
+Text Sumarizer Project 

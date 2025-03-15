@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+src/Text_Summarizer.egg-info/PKG-INFO
+src/Text_Summarizer.egg-info/SOURCES.txt
+src/Text_Summarizer.egg-info/dependency_links.txt
+src/Text_Summarizer.egg-info/top_level.txt
+src/text-summarizer/__init__.py
+src/text-summarizer/components/__init__.py
+src/text-summarizer/config/__init__.py
+src/text-summarizer/config/configuration.py
+src/text-summarizer/constatnts/__init__.py
+src/text-summarizer/entity/__init__.py
+src/text-summarizer/logging/__init__.py
+src/text-summarizer/pipeline/__init__.py
+src/text-summarizer/utils/__init__.py
